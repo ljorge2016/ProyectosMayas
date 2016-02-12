@@ -5,10 +5,16 @@
  */
 package miprimergit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Julio
  */
 public class jhhh {
+    
+    public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "profetas que fueeeeeee");
+    }
     
 }
