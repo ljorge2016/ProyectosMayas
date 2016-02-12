@@ -16,6 +16,12 @@ public class jhhh {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "profetas que fueeeeeee");
         JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato gonka");
         
     }
     
