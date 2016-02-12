@@ -22,6 +22,7 @@ public class jhhh {
         JOptionPane.showMessageDialog(null, "chato gonka");
         JOptionPane.showMessageDialog(null, "chato gonka");
         JOptionPane.showMessageDialog(null, "chato gonka");
+        JOptionPane.showMessageDialog(null, "chato");
         
     }
     
