@@ -14,6 +14,18 @@ public class MiPrimerGit {
     /**
      * @param args the command line arguments
      */
+    
+    
+    
+    public void saludo(){
+        
+        
+        
+        
+    }
+    
+    
+    
     public static void main(String[] args) {
         System.out.println("Hola Git!.....");
     }
